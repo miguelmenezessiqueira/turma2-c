@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 10, 10);
+} 
+
+.primeiraparte{
+background-color: rgb(240, 236, 236);
+}
+
+.foto{
+    width: 400px;
+}
+
+.todososestudantes{
+    display:flex ;
+}
+
+.fotos{
+    width: 150px;
+}
